@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("/img/dmeo1.jpg");
+    background-image: url("../img/dmeo1.jpg");
     padding-top: 12rem;
     height: 100vh;
     background-size: cover;
